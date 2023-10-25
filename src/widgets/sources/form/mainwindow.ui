@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>771</width>
+      <height>531</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:14pt; font-weight:700;&quot;&gt;Welcome to 3d linear calculator!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="button_graph">
+       <property name="text">
+        <string>3d graph calculator</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="button_intersect">
+       <property name="text">
+        <string>find intersect</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="button_angel">
+       <property name="text">
+        <string>find angel</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="button_distance">
+       <property name="text">
+        <string>find distance</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="button_operator">
+       <property name="text">
+        <string>linear operator</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMenu">
+    <property name="title">
+     <string>Menu</string>
+    </property>
+    <addaction name="exit"/>
+   </widget>
+   <widget class="QMenu" name="menuSettings">
+    <property name="title">
+     <string>Settings</string>
+    </property>
+    <addaction name="actionSelect_language"/>
+   </widget>
+   <widget class="QMenu" name="menuInfo">
+    <property name="title">
+     <string>Info</string>
+    </property>
+    <addaction name="actionAbout"/>
+    <addaction name="actionMath_base"/>
+   </widget>
+   <addaction name="menuMenu"/>
+   <addaction name="menuSettings"/>
+   <addaction name="menuInfo"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="exit">
+   <property name="text">
+    <string>Exit</string>
+   </property>
+   <property name="shortcut">
+    <string>Esc</string>
+   </property>
+  </action>
+  <action name="actionSelect_language">
+   <property name="text">
+    <string>Select language</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About us</string>
+   </property>
+  </action>
+  <action name="actionMath_base">
+   <property name="text">
+    <string>Math base</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

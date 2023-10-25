@@ -1,0 +1,1 @@
+-I"C:/Users/jorka/CLionProjects/gemetric_calc/cmake-build-debug/appl_qt6_autogen/include" -IC:/Users/jorka/CLionProjects/gemetric_calc -isystem C:/Qt6/6.5.1/mingw_64/include/QtCore -isystem C:/Qt6/6.5.1/mingw_64/include -isystem "C:/Qt6/6.5.1/mingw_64/mkspecs/win32-g++" -isystem C:/Qt6/6.5.1/mingw_64/include/QtWidgets -isystem C:/Qt6/6.5.1/mingw_64/include/QtGui
