@@ -1,5 +1,5 @@
-C:/Users/jorka/CLionProjects/appl_qt6/cmake-build-debug/appl_qt6_autogen/AIUXJISSCO/moc_mainwindow.cpp: C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/mainwindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/cmake-build-debug/appl_qt6_autogen/moc_predefs.h \
+C:/Users/jorka/CLionProjects/gemetric_calc/cmake-build-debug/appl_qt6_autogen/AIUXJISSCO/moc_mainwindow.cpp: C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/mainwindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/cmake-build-debug/appl_qt6_autogen/moc_predefs.h \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/QLine \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/q20memory.h \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/q20type_traits.h \
@@ -399,9 +399,9 @@ C:/Users/jorka/CLionProjects/appl_qt6/cmake-build-debug/appl_qt6_autogen/AIUXJIS
   C:/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt6/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/lib/figures.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/angelwindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/distancewindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/graphwindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/intersectwindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/operatorwindow.h
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/lib/figures.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/angelwindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/distancewindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/graphwindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/intersectwindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/operatorwindow.h

@@ -1,5 +1,5 @@
-C:/Users/jorka/CLionProjects/appl_qt6/cmake-build-debug/appl_qt6_autogen/AIUXJISSCO/moc_graphwindow.cpp: C:/Users/jorka/CLionProjects/appl_qt6/src/widgets/headers/graphwindow.h \
-  C:/Users/jorka/CLionProjects/appl_qt6/cmake-build-debug/appl_qt6_autogen/moc_predefs.h \
+C:/Users/jorka/CLionProjects/gemetric_calc/cmake-build-debug/appl_qt6_autogen/AIUXJISSCO/moc_graphwindow.cpp: C:/Users/jorka/CLionProjects/gemetric_calc/src/widgets/headers/graphwindow.h \
+  C:/Users/jorka/CLionProjects/gemetric_calc/cmake-build-debug/appl_qt6_autogen/moc_predefs.h \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/q20memory.h \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/q20type_traits.h \
   C:/Qt6/6.5.1/mingw_64/include/QtCore/qalgorithms.h \
